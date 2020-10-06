@@ -18,6 +18,10 @@ windowsの設定をメモするレポジトリ
 フォルダの右クリック > プロパティ > Hidden にチェックを入れてApply.  
 選択肢は、"Apply changes to this foloder only" でよい.  
 
+<p>複数指定もできる. </p>
+
+![https://github.com/tarohida/windows-setting/blob/main/images/change_file_property_to_hidden_is_true_20201006100157.png?raw=true](https://github.com/tarohida/windows-setting/blob/main/images/change_file_property_to_hidden_is_true_20201006100157.png?raw=true)
+
 <p>適用前</p>
 
 ```
