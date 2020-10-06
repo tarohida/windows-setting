@@ -16,7 +16,10 @@ windowsの設定をメモするレポジトリ
 ## 3D Objects, Favorites等ファイルについて、CLIから表示されないよう, プロパティを "hidden" に設定する.
 
 フォルダの右クリック > プロパティ > Hidden にチェックを入れてApply.  
-選択肢は、"Apply changes to this foloder only" でよい.  
+選択肢は、"Apply changes to this foloder only" でよい. 
+
+ファイルについても同様，設定ができる．  
+アプリケーションが勝手に変更するもので，CLIから触ることがないようなファイルについては設定しておくとホームディレクトリがきれいになり，幸せになれる．
 
 <p>複数指定もできる. </p>
 
